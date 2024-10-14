@@ -12,3 +12,20 @@ body{
  font-weight: 300;
  font-style: normal;
 }
+.container{
+    width: 600px;
+    height: 600px;
+    background-color: bisque;
+    margin: 200px auto;
+    position: relative;
+}
+
+.box{
+    height: 50px;
+    
+    background-color: pink;
+    position: sticky;
+    right: 0;
+    top: 0;
+    left: 0;
+}
